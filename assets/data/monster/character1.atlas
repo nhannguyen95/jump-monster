@@ -1,0 +1,33 @@
+
+character1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: false
+  xy: 2, 12
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 45, 21
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+left-leg
+  rotate: false
+  xy: 45, 2
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+right-leg
+  rotate: false
+  xy: 45, 2
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,75 @@
+
+decoration.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background0
+  rotate: false
+  xy: 2, 306
+  size: 600, 865
+  orig: 600, 865
+  offset: 0, 0
+  index: -1
+background1
+  rotate: false
+  xy: 606, 306
+  size: 600, 865
+  orig: 600, 865
+  offset: 0, 0
+  index: -1
+city0
+  rotate: false
+  xy: 1210, 737
+  size: 601, 434
+  orig: 601, 434
+  offset: 0, 0
+  index: -1
+city1
+  rotate: false
+  xy: 1210, 336
+  size: 603, 397
+  orig: 603, 397
+  offset: 0, 0
+  index: -1
+grass1
+  rotate: false
+  xy: 2, 2
+  size: 603, 300
+  orig: 603, 300
+  offset: 0, 0
+  index: -1
+grass0
+  rotate: false
+  xy: 609, 39
+  size: 603, 263
+  orig: 603, 263
+  offset: 0, 0
+  index: -1
+big-street
+  rotate: false
+  xy: 1216, 94
+  size: 603, 238
+  orig: 603, 238
+  offset: 0, 0
+  index: -1
+small-street
+  rotate: false
+  xy: 1216, 44
+  size: 603, 46
+  orig: 603, 46
+  offset: 0, 0
+  index: -1
+cloud0
+  rotate: false
+  xy: 1815, 1106
+  size: 102, 65
+  orig: 102, 65
+  offset: 0, 0
+  index: -1
+cloud1
+  rotate: false
+  xy: 1815, 1052
+  size: 95, 50
+  orig: 95, 50
+  offset: 0, 0
+  index: -1

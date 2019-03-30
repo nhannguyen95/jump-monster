@@ -1,0 +1,21 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Image: {
+	title: { drawable: title}, 
+	newhighscore: { drawable: new-highscore}, 
+	board: { drawable: score-board}, 
+	gold: { drawable: gold}, 
+	silver: { drawable: silver}, 
+	bronze: { drawable: bronze}, 
+	non: { drawable: non}
+},
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	play: { up: play-up},
+	smallplay: { up: smallplay-up},
+	smallplaychar: {up: smallplaychar-up},
+	rank: { up: rank-up},
+	smallrank: {up: smallrank-up},
+	rate: { up: rate-up},
+	facebook: { up: fb-up}, 
+	back: { up: back-up}
+}
+}

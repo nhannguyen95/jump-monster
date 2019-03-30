@@ -1,0 +1,110 @@
+
+jm-ui.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+score-board
+  rotate: false
+  xy: 2, 208
+  size: 395, 311
+  orig: 395, 311
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 20
+  size: 239, 184
+  orig: 239, 184
+  offset: 0, 0
+  index: -1
+fb-up
+  rotate: false
+  xy: 401, 425
+  size: 174, 94
+  orig: 174, 94
+  offset: 0, 0
+  index: -1
+play-up
+  rotate: false
+  xy: 401, 328
+  size: 174, 93
+  orig: 174, 93
+  offset: 0, 0
+  index: -1
+rank-up
+  rotate: false
+  xy: 401, 231
+  size: 174, 93
+  orig: 174, 93
+  offset: 0, 0
+  index: -1
+smallplay-up
+  rotate: false
+  xy: 245, 138
+  size: 124, 66
+  orig: 124, 66
+  offset: 0, 0
+  index: -1
+smallplaychar-up
+  rotate: false
+  xy: 245, 68
+  size: 124, 66
+  orig: 124, 66
+  offset: 0, 0
+  index: -1
+back-up
+  rotate: false
+  xy: 245, 6
+  size: 107, 58
+  orig: 107, 58
+  offset: 0, 0
+  index: -1
+smallrank-up
+  rotate: false
+  xy: 401, 161
+  size: 124, 66
+  orig: 124, 66
+  offset: 0, 0
+  index: -1
+rate-up
+  rotate: false
+  xy: 373, 106
+  size: 96, 51
+  orig: 96, 51
+  offset: 0, 0
+  index: -1
+bronze
+  rotate: false
+  xy: 529, 147
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+gold
+  rotate: false
+  xy: 373, 22
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+non
+  rotate: false
+  xy: 440, 21
+  size: 63, 81
+  orig: 63, 81
+  offset: 0, 0
+  index: -1
+new-highscore
+  rotate: false
+  xy: 2, 2
+  size: 37, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+silver
+  rotate: false
+  xy: 507, 63
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1

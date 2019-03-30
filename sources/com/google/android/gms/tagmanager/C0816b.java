@@ -1,0 +1,31 @@
+package com.google.android.gms.tagmanager;
+
+import android.content.Context;
+import com.google.android.gms.internal.C0205a;
+import com.google.android.gms.internal.C0239d.C0969a;
+import java.util.Map;
+
+/* renamed from: com.google.android.gms.tagmanager.b */
+class C0816b extends aj {
+    private static final String ID = C0205a.ADVERTISER_ID.toString();
+    private final C0378a Wz;
+
+    public C0816b(Context context) {
+        this(C0378a.m1357E(context));
+    }
+
+    C0816b(C0378a c0378a) {
+        super(ID, new String[0]);
+        this.Wz = c0378a;
+    }
+
+    public boolean jX() {
+        return false;
+    }
+
+    /* renamed from: x */
+    public C0969a mo2240x(Map<String, C0969a> map) {
+        String jT = this.Wz.jT();
+        return jT == null ? dh.lT() : dh.m1472r(jT);
+    }
+}
